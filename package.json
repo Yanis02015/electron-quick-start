@@ -1,0 +1,17 @@
+{
+  "name": "electron-template-quick-start",
+  "version": "1.0.0",
+  "description": "A template of electron app using only HTML CSS JS Vanilla in front",
+  "main": "main.js",
+  "scripts": {
+    "dev": "electron ."
+  },
+  "keywords": [
+    "ELECTRON-TEMPLATE"
+  ],
+  "author": "Yanis02015",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^22.0.0"
+  }
+}
